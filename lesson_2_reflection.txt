@@ -1,19 +1,21 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-.git is created, metadata is needed to track changes
+  .git is created, metadata is needed to track changes
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-Can collect changes on individual files before committing a set of file.
+  Can collect changes on individual files before committing a set of file.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-Use diff between working version and staging and reset in case more than one change.
+ Use diff between working version and staging and reset in case more than one change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+  In case more than 1 version needs to be kept alive (e.g. two different experiments, different languages, ...)
 
 How do the diagrams help you visualize the branch structure?
 
