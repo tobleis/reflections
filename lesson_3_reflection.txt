@@ -28,4 +28,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When multiple people are working on a version concurrently. Merging is more complicated,
+    but can't destroy a working version and still push changes to the repo.
